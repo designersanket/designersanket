@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Sanket Jagadale
+<h1 align="center">Hi 👋, I'm Sanket Jagadale</h1>
+
+<p align="center">
+  <a href="https://github.com/designersanket">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F24E1E&center=true&vCenter=true&width=650&lines=AI-Focused+Frontend+Developer;UI%2FUX+Designer+%26+Problem+Solver;Turning+Figma+Designs+into+Code;Building+Clean+%26+Scalable+Web+Apps" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749499-2b2f2b94-98d3-4b9c-9f5c-9fd4b87f9d3e.gif" width="500"/>
+</p>
 
 🚀 **Aspiring AI-Focused Frontend Developer**  
 🎨 Passionate about building **smart, user-friendly web apps** with clean UI & meaningful UX  
