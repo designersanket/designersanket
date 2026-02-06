@@ -10,19 +10,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749499-2b2f2b94-98d3-4b9c-9f5c-9fd4b87f9d3e.gif" width="500"/>
 </p>
 
-🚀 **Aspiring AI-Focused Frontend Developer**  
-🎨 Passionate about building **smart, user-friendly web apps** with clean UI & meaningful UX  
-🧠 Exploring **AI × Frontend × Design**
-
 ---
 
 ## 🧑‍💻 About Me
 
-- 💡 Strong interest in **AI-powered web applications**
-- 🎯 Focused on **frontend development + UI/UX**
-- 🛠 Love turning **Figma designs into real products**
-- 🌱 Currently improving **DSA, system design & ML basics**
-- 📌 Looking for **internships / entry-level roles**
+- 🚀 Aspiring **AI-Focused Frontend Developer**
+- 🎨 Passionate about **UI/UX design & clean interfaces**
+- 🧠 Exploring **AI × Frontend × Design**
+- 🛠 Turning **Figma designs into real products**
+- 🎯 Actively seeking **internships / entry-level roles**
 
 ---
 
@@ -89,11 +85,13 @@ Interactive JavaScript-based game improving logic & UX
 
 ## 🌐 Connect With Me
 
-- 💼 GitHub: https://github.com/designersanket
-- 🌍 Portfolio: https://sanketportfolio.vercel.app
+- 💼 GitHub: https://github.com/designersanket  
+- 🌍 Portfolio: https://sanketportfolio.vercel.app  
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=designersanket&icon=0&color=0)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=designersanket&icon=0&color=0" />
+</p>
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
