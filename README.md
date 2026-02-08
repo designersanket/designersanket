@@ -54,19 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=designersanket&theme=dark&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=designersanket&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designersanket&layout=compact&theme=dark" width="40%" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -75,13 +62,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/designersanket/designersanket/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=designersanket&icon=0&color=0" />
