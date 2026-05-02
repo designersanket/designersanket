@@ -125,19 +125,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  Explore my projects, UI/UX designs, and full-stack applications with AI integrations.
-</p>
 
 ---
 
