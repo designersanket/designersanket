@@ -94,12 +94,50 @@
 </p>
 
 ---
+---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio
 
-- 💼 GitHub: https://github.com/designersanket  
-- 📧 Email: *(add your email here)*  
-- 🔗 LinkedIn: *(add your linkedin here)*  
+<p align="center">
+  <a href="https://sanketjportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Showcasing my MERN projects, AI-powered applications, and UI/UX designs
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/designersanket" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="mailto:sanketjagadale04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sanket-jagadale-78035233b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, UI/UX designs, and full-stack applications with AI integrations.
+</p>
 
 ---
 
