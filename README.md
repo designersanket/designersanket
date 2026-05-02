@@ -64,17 +64,32 @@
 - AI-based **code review, weak point detection & suggestions**
 - **Tech**: MERN + Gemini API + MongoDB Atlas  
 
+[🔗 Live Demo](#) | [💻 Source Code](#)
+
 ---
 
 ### ⭐ Gym Frontend App
 - Clean and responsive **fitness UI project**
 - Focus on **modern UI/UX design**
 
+[🔗 Live Demo](#) | [💻 Source Code](#)
+
 ---
 
 ### 🎨 Color Guess Game
 - Interactive JavaScript game  
 - Focused on **logic building & DOM manipulation**
+
+[🔗 Live Demo](#) | [💻 Source Code](#)
+
+---
+
+## ⚡ What I Bring
+
+- 🧠 Problem-solving mindset with DSA + real-world applications  
+- ⚙️ Experience building **production-ready MERN apps**  
+- 🤖 AI integration for **smart features & automation**  
+- 🎯 Focus on **performance, scalability & clean UI**  
 
 ---
 
@@ -94,18 +109,17 @@
 </p>
 
 ---
----
 
 ## 🌐 Portfolio
+
+<p align="center">
+  🚀 Explore my complete work, projects, and design systems
+</p>
 
 <p align="center">
   <a href="https://sanketjportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  Showcasing my MERN projects, AI-powered applications, and UI/UX designs
 </p>
 
 ---
